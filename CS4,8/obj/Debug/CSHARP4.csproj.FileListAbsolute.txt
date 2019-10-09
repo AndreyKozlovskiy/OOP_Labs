@@ -1,0 +1,13 @@
+C:\Users\carat\source\repos\CSHARP4\obj\Debug\CSHARP4.csprojAssemblyReference.cache
+C:\Users\carat\source\repos\CSHARP4\obj\Debug\CSHARP4.csproj.CoreCompileInputs.cache
+C:\Users\carat\source\repos\CSHARP4\bin\Debug\CSHARP4.exe.config
+C:\Users\carat\source\repos\CSHARP4\bin\Debug\CSHARP4.exe
+C:\Users\carat\source\repos\CSHARP4\bin\Debug\CSHARP4.pdb
+C:\Users\carat\source\repos\CSHARP4\obj\Debug\CSHARP4.exe
+C:\Users\carat\source\repos\CSHARP4\obj\Debug\CSHARP4.pdb
+C:\Users\carat\source\repos\C#4\bin\Debug\CSHARP4.exe.config
+C:\Users\carat\source\repos\C#4\bin\Debug\CSHARP4.exe
+C:\Users\carat\source\repos\C#4\bin\Debug\CSHARP4.pdb
+C:\Users\carat\source\repos\C#4\obj\Debug\CSHARP4.csprojAssemblyReference.cache
+C:\Users\carat\source\repos\C#4\obj\Debug\CSHARP4.exe
+C:\Users\carat\source\repos\C#4\obj\Debug\CSHARP4.pdb
