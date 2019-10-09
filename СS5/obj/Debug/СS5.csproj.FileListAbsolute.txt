@@ -1,0 +1,6 @@
+C:\Users\carat\source\repos\СS5\bin\Debug\СS5.exe.config
+C:\Users\carat\source\repos\СS5\bin\Debug\СS5.exe
+C:\Users\carat\source\repos\СS5\bin\Debug\СS5.pdb
+C:\Users\carat\source\repos\СS5\obj\Debug\СS5.csprojAssemblyReference.cache
+C:\Users\carat\source\repos\СS5\obj\Debug\СS5.exe
+C:\Users\carat\source\repos\СS5\obj\Debug\СS5.pdb
